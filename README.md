@@ -1,1 +1,2 @@
-# Places-to-go-in-UK
+# Places to go in UK
+The [Places to go in UK](https://britroute.co.uk/minibus-hire/) boasts a wealth of vibrant cities, each offering a unique charm. London, a global powerhouse, stuns with its iconic landmarks like Buckingham Palace and Big Ben. History buffs will be enthralled by Edinburgh, Scotland's capital, with its dramatic castle and medieval streets. For Roman baths and elegant Georgian architecture, head to Bath, a UNESCO World Heritage Site. Explore Viking heritage in the walled city of York, or delve into academia at Oxford, home to the prestigious university. These are just a taste of the diverse cityscapes waiting to be discovered in the UK.
